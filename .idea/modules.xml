@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KTwitter_Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/KTwitter_Sample.iml" group="KTwitter_Sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KTwitter/KTwitter_Sample-KTwitter.iml" filepath="$PROJECT_DIR$/.idea/modules/KTwitter/KTwitter_Sample-KTwitter.iml" group="KTwitter_Sample/KTwitter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="KTwitter_Sample/app" />
+    </modules>
+  </component>
+</project>

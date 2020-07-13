@@ -1,0 +1,3 @@
+include ':KTwitter'
+include ':app'
+rootProject.name = "KTwitter_Sample"
